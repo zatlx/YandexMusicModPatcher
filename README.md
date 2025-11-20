@@ -1,8 +1,8 @@
 # YandexMusicModPatcher
 
-[![TotalDownloads](https://img.shields.io/github/downloads/TheKing-OfTime/YandexMusicModPatcher/total?label=Загрузок)](https://github.com/TheKing-OfTime/YandexMusicModPatcher/releases "Download") [![Discord Server](https://img.shields.io/discord/1271568115662061730?logo=discord&label=Сервер)](https://discord.gg/HGNKDxwHEH) [![OS - Windows](https://img.shields.io/badge/OS-Windows-blue)](https://ymmc-api.artem-matvienko0.workers.dev/patcher/download "Download") [![OS - MacOS](https://img.shields.io/badge/OS-Mac-blue)](https://ymmc-api.artem-matvienko0.workers.dev/patcher/download "Download") [![OS - MacOS](https://img.shields.io/badge/OS-Linux-blue)](https://ymmc-api.artem-matvienko0.workers.dev/patcher/download "Download")
+[![TotalDownloads](https://img.shields.io/github/downloads/zatlx/YandexMusicModPatcher/total?label=Загрузок)](https://github.com/zatlx/YandexMusicModPatcher/releases "Download") [![Discord Server](https://img.shields.io/discord/1271568115662061730?logo=discord&label=Сервер)](https://discord.gg/HGNKDxwHEH)
 
-## Это установщик для модификации на Яндекс Музыку [YandexMusicModClient](https://github.com/TheKing-OfTime/YandexMusicModClient)
+## Это установщик для модификации на Яндекс Музыку [YandexMusicModClient](https://github.com/zatlx/YandexMusicModClient)
 
 <img width="832" height="620" alt="image" src="https://github.com/user-attachments/assets/810707c5-6f39-4e11-8101-ecad9808085a" />
 
@@ -15,7 +15,7 @@
 > Это касается миграций и новых функций. Регулярность спуфов и фиксов не изменится
 
 ## Установка
-1. Загрузите установщик патчера по <a href="https://ymmc-api.artem-matvienko0.workers.dev/patcher/download" target="_blank">ссылке</a> или со страницы последнего [релиза](https://github.com/TheKing-OfTime/YandexMusicModPatcher/releases/latest)
+1. Загрузите установщик патчера со страницы последнего [релиза](https://github.com/zatlx/YandexMusicModPatcher/releases/latest)
 2. Запустите установщик и дождитесь установки.
 3. Готово!
 
